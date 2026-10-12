@@ -1,5 +1,5 @@
 # python-beginner-projects
-These are four small Python projects made while learning the language with the help of turotials and learning from college. I wrote and tested each one myself.
+These are four python projects made while learning the language with the help of turotials and college experience. I wrote and tested each one myself.
 
 # 1_task_manager.py
 This project is a to do list that runs in the console. It lets you add new tasks, mark them as done and delete them when you don't need them anymore, and it shows a numbered list so you can see what is finished and what isn't. It also saves everything to a file, so your tasks are still there when you open it again.
